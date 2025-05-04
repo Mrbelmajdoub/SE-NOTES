@@ -9,6 +9,7 @@ how to use this repo:
   - indexing and resource keeping are in this note for now
 pending:
  - too many concepts on the 0-welcome on board, come back later.
+ - cd man page is about varialble and like a code, interesting to look at later.
 index:
 resources:
 documentation:
@@ -28,8 +29,8 @@ timeline:
 # Time management
 -May sprint: finish month 1 and 2
 -task decomposition and prioritization:
-T1: finish welcome on board 2D --DONE
-T10: finish shell navigation and vi 2D
+T1: finish welcome on board 2D --DONE 02/05
+T10: finish shell navigation and vi 2D --DONE 04/05
 T20:finish Emacs and git 1D check (https://www.youtube.com/watch?v=X8Mp-s6ZQVo) and (https://www.youtube.com/watch?v=lsTMooaxITY)
 T30: finish other projects of onboarding 2D (https://www.youtube.com/watch?v=J24j1Di-Rhc) (https://www.youtube.com/watch?v=9QYG8uVNZdU)
 T40: finish new projects of 0-Day 1D
