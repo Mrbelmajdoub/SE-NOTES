@@ -10,6 +10,8 @@ how to use this repo:
 pending:
  - too many concepts on the 0-welcome on board, come back later.
  - cd man page is about varialble and like a code, interesting to look at later.
+ - make an index to link real chronological order with local one.
+ - what does explain to anyone in learning objective mean, put in important
 index:
 resources:
 documentation:
