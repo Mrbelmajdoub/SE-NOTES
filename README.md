@@ -35,6 +35,7 @@ T1: finish welcome on board 2D --DONE 02/05
 T10: finish shell navigation and vi 2D --DONE 04/05
 T20:finish Emacs and git 1D check (https://www.youtube.com/watch?v=X8Mp-s6ZQVo) and (https://www.youtube.com/watch?v=lsTMooaxITY)  3D--DONE 07/05
 T30: finish other projects of onboarding 2D (https://www.youtube.com/watch?v=J24j1Di-Rhc) (https://www.youtube.com/watch?v=9QYG8uVNZdU)
+T31:shells ALL -3D
 T40: finish new projects of 0-Day 1D
 T50: 00 to 04 of C 3D #check (https://www.youtube.com/watch?v=ZbHf1b3xduo)
 T60: 05 to 07 of C 2D
@@ -45,4 +46,4 @@ T100: 12 to 15 of C 3D
 T110: 16 of C 3D
 > 3D of grace to return and complete what is left for its time consumption.
 - instead of time blocking i will work on all time basis for now because of incosistancy of my schedule.
-
+> forgot about chronology when setting tasks, added at 30s.
