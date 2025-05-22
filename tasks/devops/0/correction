@@ -1,0 +1,138 @@
+listed task 0 to 18
+✅ Review & Breakdown:
+Show current working directory
+
+bash
+Copy
+Edit
+#!/bin/bash
+pwd
+List directory contents
+
+bash
+Copy
+Edit
+#!/bin/bash
+ls
+Change to root directory
+
+bash
+Copy
+Edit
+#!/bin/bash
+cd /
+List contents in long format
+
+bash
+Copy
+Edit
+#!/bin/bash
+ls -l
+List all including hidden
+
+bash
+Copy
+Edit
+#!/bin/bash
+ls -la
+List all with numeric IDs instead of names
+
+bash
+Copy
+Edit
+#!/bin/bash
+ls -lan
+Change to a specific directory
+
+bash
+Copy
+Edit
+#!/bin/bash
+cd /tmp/my_first_directory
+Move file betty into the directory
+
+bash
+Copy
+Edit
+#!/bin/bash
+mv /tmp/betty /tmp/my_first_directory
+Remove the file betty
+
+bash
+Copy
+Edit
+#!/bin/bash
+rm /tmp/my_first_directory/betty
+Remove the entire directory
+
+bash
+Copy
+Edit
+#!/bin/bash
+rm -r /tmp/my_first_directory
+Change back to previous directory
+
+bash
+Copy
+Edit
+#!/bin/bash
+cd -
+List contents of current, parent, and /boot
+
+bash
+Copy
+Edit
+#!/bin/bash
+ls -al . .. /boot
+Identify file type
+
+bash
+Copy
+Edit
+#!/bin/bash
+file /tmp/iamafile
+Create a symbolic link named __ls__ to /bin/ls
+
+bash
+Copy
+Edit
+#!/bin/bash
+ln -s /bin/ls __ls__
+⚠️ Correction: You likely meant symbolic link (-s), not hard link. ln alone creates a hard link, but ls is in a separate filesystem, which might cause errors without -s.
+
+Copy .html files to parent directory only if newer
+
+bash
+Copy
+Edit
+#!/bin/bash
+cp -u ./*.html ..
+Move all files starting with uppercase letters to /tmp/u
+
+bash
+Copy
+Edit
+#!/bin/bash
+mv ./[[:upper:]]* /tmp/u
+Delete backup files (ending with ~)
+
+bash
+Copy
+Edit
+#!/bin/bash
+rm *~
+Create nested directories in one command
+
+bash
+Copy
+Edit
+#!/bin/bash
+mkdir -p welcome/to/school
+List entries separated by commas, including indicators
+
+bash
+Copy
+Edit
+#!/bin/bash
+ls -amF
+
