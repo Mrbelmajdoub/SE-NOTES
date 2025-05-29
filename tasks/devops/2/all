@@ -1,0 +1,46 @@
+#!/bin/bash
+echo "Hello, World"
+#!/bin/bash
+echo "(Oo)'"
+#!/bin/bash
+cat /etc/passwd
+#!/bin/bash
+cat /etc/passwd /etc/hosts
+#!/bin/bash
+tail -10  /etc/passwd
+#!/bin/bash
+head -10 /etc/passwd
+#!/bin/bash
+head -3 iacta | tail -1 
+#!/bin/bash
+echo  \\\*\\\\\'\""Best school"\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\) > "Best School"
+#!/bin/bash
+ls -la > ls_cwd_content
+#!/bin/bash
+tail -1 iacta >> iacta
+#!/bin/bash
+rm *.js */*.js
+#!/bin/bash
+ls -lRA | sort | uniq | grep drwxr | wc -l
+#!/bin/bash
+ls -tC1 | head -10
+#!/bin/bash
+uniq -u
+#!/bin/bash
+grep root /etc/passwe
+#!/bin/bash
+grep -A3 root /etc/passwd
+#!/bin/bash
+grep -c bin /etc/passwd
+#!/bin/bash
+grep -v bin /etc/passwd
+#!/bin/bash
+grep -e '^[[:alpha:]]' /etc/ssh/sshd_config
+#!/bin/bash
+tr 'Ac' 'Ze'
+#!/bin/bash
+tr -d 'cC'
+#!/bin/bash
+rev
+#!/bin/bash
+cut -d: -f1,6 /etc/passwd | sort

@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -tC1 | head -10

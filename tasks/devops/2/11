@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lRA | sort | uniq | grep drwxr | wc -l
